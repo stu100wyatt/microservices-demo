@@ -1,3 +1,5 @@
+[![Infrastructure Tests](https://www.bridgecrew.cloud/badges/github/stu100wyatt/microservices-demo-1/general)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=stu100wyatt%2Fmicroservices-demo&benchmark=INFRASTRUCTURE+SECURITY)
+
 [![Build Status](https://travis-ci.org/microservices-demo/microservices-demo.svg?branch=master)](https://travis-ci.org/microservices-demo/microservices-demo)
 
 # Sock Shop : A Microservice Demo Application
